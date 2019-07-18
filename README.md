@@ -2,7 +2,7 @@
 ## July 18, 2019
 <h2> Walmart Sales Data, Regression and Classification
 <br>
-  ![alt text](/assets/images/wm_presentation.jpg)
+  ![](/assets/wm_presentation.jpg)
  </br>
 <h3>Ragavendar Kumar</h3>
 <h3>Bhavesh Nema</h3>
