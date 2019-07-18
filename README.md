@@ -1,9 +1,9 @@
 # UNC Data Bootcamp Final Project
 ## July 18, 2019
 <h2> Walmart Sales Data, Regression and Classification
-<br>
-  ![](/assets/wm_presentation.jpg)
- </br>
+<br></br>
+<img src="https://github.com/arentaylor/DBC_FinalProject/blob/master/assets/images/walmartsm.jpg" />
+<br></br>
 <h3>Ragavendar Kumar</h3>
 <h3>Bhavesh Nema</h3>
 <h3>April Taylor</h3>
